@@ -1,0 +1,40 @@
+{  "name":"Gh☺st Tutorials",
+   "id":1,
+   "date":"1/1/2017",
+   "time":"10:30 am",
+   "location":{  
+      "address":"Stevenson",
+      "city":"Fremont",
+      "state":"CA"
+   },
+   "imgUrl":"/img/CSGO1.png",
+   "sessions":[  
+      {  
+         "id":1,
+         "map":"de_dust2",
+         "creatorName":"David Johnston",
+         "duration":"1hr",
+         "level":"Advanced",
+         "abstract":"In this session you will learn about the basic of dust2",
+         "upVoteCount":0
+      },
+      {  
+         "id":2,
+         "map":"de_mirage",
+         "creatorName":"Micheal Hull",
+         "duration":"1.5hr",
+         "level":"Introductory",
+         "abstract":"In this session you will learn about the basic of mirage",
+         "upVoteCount":0
+      },
+      {  
+         "id":3,
+         "map":"de_cobblestone",
+         "creatorName":"David Johnston",
+         "duration":"2hr",
+         "level":"Intermediate",
+         "abstract":"In this session you will learn about the basic of cobblestone",
+         "upVoteCount":0
+      }
+   ]
+}
